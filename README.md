@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm [Your Name], M.Sc. </h1>
+<h1 align="center">👋 Hey, I'm Daniel Cozmescu, M.Sc. </h1>
 
 <p align="center">
 🚀 <strong>DevOps Engineer | Cloud & Cybersecurity Specialist</strong>  
